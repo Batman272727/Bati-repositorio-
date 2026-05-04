@@ -1,0 +1,67 @@
+.container {
+    background: beige;
+}
+
+.titulo {
+    color: #2d8522;
+    display: flex;
+    justify-content: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.eslogan {
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 0%;
+    letter-spacing: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 85px;
+}
+
+.barra-consultas {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tarjeta {
+    display: inline-flex;
+    justify-content: center;
+    background-color: white;
+    border-width: 15px;
+    border-color: #2d8522;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-inline: 20px;
+    justify-content: center;
+    display: grid;
+}
+
+.consulta {
+    font-family: Helvetica, sans-serif;
+    font-weight: 750;
+    margin-bottom: 7px;
+}
+
+.titulo-nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    border: black;
+}
+
+.desc {
+    font-family: Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    padding-top: 0;
+    margin-top: 0;
+}
